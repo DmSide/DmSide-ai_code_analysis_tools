@@ -1,0 +1,8 @@
+bson
+Django
+djangorestframework
+gitpython
+guesslang
+pandas
+pymongo
+requests
